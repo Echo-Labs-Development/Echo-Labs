@@ -71,7 +71,7 @@ body {
 }
 
 .topnav {
-    background-color: #333;
+    background-color: #ffffff00;
     overflow: hidden;
 }
 
@@ -85,11 +85,11 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: #9565CD;
     color: black;
 }
 
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #693BB8;
     color: white;
 }
